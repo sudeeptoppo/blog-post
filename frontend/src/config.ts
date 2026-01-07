@@ -1,2 +1,2 @@
-export  const BACKEND_URL = "http://localhost:3000";
-export  const BACKEND_URL2 ="http://127.0.0.1:8787"
+export  const BACKEND_URL = "http://localhost:3000"; //testing only
+export  const BACKEND_URL2 ="https://backend.sudeeptoppo27.workers.dev"
